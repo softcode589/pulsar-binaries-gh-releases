@@ -13,4 +13,4 @@ jobs:
       - uses: codelytv/no-pull-requests@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          message: "There is no way to contribute to the releases via pull request 
+          message: "There is no way to contribute to the releases via pull request ("
